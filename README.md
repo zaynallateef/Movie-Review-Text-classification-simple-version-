@@ -1,4 +1,4 @@
-# 🎬 Movie Review Sentiment Classification
+# Movie Review Sentiment Classification
 
 A Natural Language Processing (NLP) project that classifies movie reviews as **Positive** or **Negative** using Machine Learning.
 
@@ -6,7 +6,7 @@ The project uses **TF-IDF Vectorization** and compares the performance of multip
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end NLP workflow for sentiment analysis.
 
@@ -22,7 +22,7 @@ The workflow includes:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains movie reviews with two sentiment labels:
 
@@ -47,7 +47,7 @@ Example:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following classifiers were implemented and compared:
 
@@ -60,7 +60,7 @@ The following classifiers were implemented and compared:
 
 ---
 
-## ⚙️ Machine Learning Pipeline
+## Machine Learning Pipeline
 
 Each classifier was built using a Scikit-learn Pipeline.
 
@@ -81,7 +81,7 @@ This ensures that text preprocessing and classification are performed consistent
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 The models were evaluated using:
 
